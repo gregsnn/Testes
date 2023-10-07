@@ -1,0 +1,275 @@
+{
+  "id": "40a41438-84a6-4b4d-ae1d-7f1713d0a9fe",
+  "nome": "Neilton Seguins",
+  "email": "neilton@alura.com",
+  "senha": "123456",
+  "transacoes": [
+    {
+      "transacao": "Depósito",
+      "valor": "150",
+      "data": "18/11/2022",
+      "mes": "Novembro",
+      "id": 1
+    },
+    {
+      "transacao": "Depósito",
+      "valor": "100",
+      "data": "21/11/2022",
+      "mes": "Novembro",
+      "id": 2
+    },
+    {
+      "transacao": "Depósito",
+      "valor": "500",
+      "data": "05/01/2023",
+      "mes": "Janeiro",
+      "id": 3
+    },
+    {
+      "transacao": "Transferência",
+      "valor": "1500",
+      "data": "05/01/2023",
+      "mes": "Janeiro",
+      "id": 4
+    },
+    {
+      "transacao": "Transferência",
+      "valor": "250",
+      "data": "05/01/2023",
+      "mes": "Janeiro",
+      "id": 5
+    },
+    {
+      "transacao": "Transferência",
+      "valor": "80",
+      "data": "02/10/2023",
+      "mes": "Outubro",
+      "id": 6
+    },
+    {
+      "transacao": "Transferência",
+      "valor": "80",
+      "data": "02/10/2023",
+      "mes": "Outubro",
+      "id": 7
+    },
+    {
+      "transacao": "Transferência",
+      "valor": "80",
+      "data": "02/10/2023",
+      "mes": "Outubro",
+      "id": 8
+    },
+    {
+      "transacao": "Transferência",
+      "valor": "80",
+      "data": "02/10/2023",
+      "mes": "Outubro",
+      "id": 9
+    },
+    {
+      "transacao": "Transferência",
+      "valor": "80",
+      "data": "02/10/2023",
+      "mes": "Outubro",
+      "id": 10
+    },
+    {
+      "transacao": "Transferência",
+      "valor": "80",
+      "data": "02/10/2023",
+      "mes": "Outubro",
+      "id": 11
+    },
+    {
+      "transacao": "Transferência",
+      "valor": "80",
+      "data": "02/10/2023",
+      "mes": "Outubro",
+      "id": 12
+    },
+    {
+      "transacao": "Transferência",
+      "valor": "80",
+      "data": "02/10/2023",
+      "mes": "Outubro",
+      "id": 13
+    },
+    {
+      "transacao": "Transferência",
+      "valor": "80",
+      "data": "02/10/2023",
+      "mes": "Outubro",
+      "id": 14
+    },
+    {
+      "transacao": "Transferência",
+      "valor": "80",
+      "data": "02/10/2023",
+      "mes": "Outubro",
+      "id": 15
+    },
+    {
+      "transacao": "Transferência",
+      "valor": "80",
+      "data": "02/10/2023",
+      "mes": "Outubro",
+      "id": 16
+    },
+    {
+      "transacao": "Transferência",
+      "valor": "80",
+      "data": "02/10/2023",
+      "mes": "Outubro",
+      "id": 17
+    },
+    {
+      "transacao": "Transferência",
+      "valor": "80",
+      "data": "02/10/2023",
+      "mes": "Outubro",
+      "id": 18
+    },
+    {
+      "transacao": "Transferência",
+      "valor": "80",
+      "data": "02/10/2023",
+      "mes": "Outubro",
+      "id": 19
+    },
+    {
+      "transacao": "Transferência",
+      "valor": "80",
+      "data": "02/10/2023",
+      "mes": "Outubro",
+      "id": 20
+    },
+    {
+      "transacao": "Transferência",
+      "valor": "80",
+      "data": "02/10/2023",
+      "mes": "Outubro",
+      "id": 21
+    },
+    {
+      "transacao": "Transferência",
+      "valor": "80",
+      "data": "02/10/2023",
+      "mes": "Outubro",
+      "id": 22
+    },
+    {
+      "transacao": "Transferência",
+      "valor": "80",
+      "data": "02/10/2023",
+      "mes": "Outubro",
+      "id": 23
+    },
+    {
+      "transacao": "Transferência",
+      "valor": "80",
+      "data": "02/10/2023",
+      "mes": "Outubro",
+      "id": 24
+    },
+    {
+      "transacao": "Transferência",
+      "valor": "80",
+      "data": "02/10/2023",
+      "mes": "Outubro",
+      "id": 25
+    },
+    {
+      "transacao": "Transferência",
+      "valor": "80",
+      "data": "02/10/2023",
+      "mes": "Outubro",
+      "id": 26
+    },
+    {
+      "transacao": "Transferência",
+      "valor": "80",
+      "data": "02/10/2023",
+      "mes": "Outubro",
+      "id": 27
+    },
+    {
+      "transacao": "Transferência",
+      "valor": "80",
+      "data": "02/10/2023",
+      "mes": "Outubro",
+      "id": 28
+    },
+    {
+      "transacao": "Transferência",
+      "valor": "80",
+      "data": "02/10/2023",
+      "mes": "Outubro",
+      "id": 29
+    },
+    {
+      "transacao": "Transferência",
+      "valor": "80",
+      "data": "02/10/2023",
+      "mes": "Outubro",
+      "id": 30
+    },
+    {
+      "transacao": "Transferência",
+      "valor": "80",
+      "data": "03/10/2023",
+      "mes": "Outubro",
+      "id": 31
+    },
+    {
+      "transacao": "Transferência",
+      "valor": "80",
+      "data": "03/10/2023",
+      "mes": "Outubro",
+      "id": 32
+    },
+    {
+      "transacao": "Transferência",
+      "valor": "80",
+      "data": "03/10/2023",
+      "mes": "Outubro",
+      "id": 33
+    },
+    {
+      "transacao": "Transferência",
+      "valor": "80",
+      "data": "03/10/2023",
+      "mes": "Outubro",
+      "id": 34
+    },
+    {
+      "transacao": "Transferência",
+      "valor": "80",
+      "data": "03/10/2023",
+      "mes": "Outubro",
+      "id": 35
+    },
+    {
+      "transacao": "Transferência",
+      "valor": "80",
+      "data": "03/10/2023",
+      "mes": "Outubro",
+      "id": 36
+    },
+    {
+      "transacao": "Transferência",
+      "valor": "80",
+      "data": "03/10/2023",
+      "mes": "Outubro",
+      "id": 37
+    },
+    {
+      "transacao": "Transferência",
+      "valor": "80",
+      "data": "03/10/2023",
+      "mes": "Outubro",
+      "id": 38
+    }
+  ],
+  "saldo": 1110
+}

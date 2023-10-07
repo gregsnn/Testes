@@ -160,12 +160,12 @@
   }
 
   .wrapper p {
-    font-size: 0.7rem;
+    font-size: 0.8rem;
   }
 
   .cartao > img {
     width: 50%;
-    height: 90%;
+    height: 100%;
   }
 
   .funcoes {

@@ -1,0 +1,54 @@
+{
+  "usuarios": [
+    {
+      "id": 1,
+      "email": "neilton@alura.com",
+      "senha": "123456",
+      "nome": "Neilton Seguins"
+    },
+    { "id": 2, "email": "greg@alura.com", "senha": "123456", "nome": "greg" },
+    { "id": 8, "email": "jonas@email.com", "senha": "123123", "nome": "Jonas" },
+    {
+      "id": 10,
+      "email": "jonas@email.com",
+      "senha": "123123",
+      "nome": "Jonas"
+    },
+    {
+      "id": 12,
+      "email": "jonas@email.com",
+      "senha": "123123",
+      "nome": "Jonas"
+    },
+    {
+      "id": 14,
+      "email": "jonas@email.com",
+      "senha": "123123",
+      "nome": "Jonas"
+    },
+    {
+      "id": 15,
+      "email": "Brando_Jerde12@yahoo.com",
+      "senha": "0KzWTbdM5Na9mf6",
+      "nome": "Rogelio Bartell"
+    },
+    {
+      "id": 16,
+      "email": "Britney.Kris@yahoo.com",
+      "senha": "12Sm0veP_mYTOWn",
+      "nome": "Angelo Stark"
+    },
+    {
+      "id": 17,
+      "email": "Xzavier.Harris@hotmail.com",
+      "senha": "80q1NLSufdCO8Z5",
+      "nome": "Natalie Sauer"
+    },
+    {
+      "id": 18,
+      "email": "gui@email.com",
+      "senha": "456789",
+      "nome": "Gui Lima"
+    }
+  ]
+}

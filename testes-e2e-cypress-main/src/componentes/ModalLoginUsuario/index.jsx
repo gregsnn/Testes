@@ -1,9 +1,9 @@
 import Botao from 'componentes/Botao';
 import { useState } from 'react';
 import api from 'services/api';
+import { validaDadosFormulario } from 'validacoes/validaFomulario';
 import estilos from './ModalLoginUsuario.module.css';
 import ilustracaoLogin from './assets/ilustracao-login.svg';
-import { validaDadosFormulario } from 'validacoes/validaFomulario';
 
 export default function ModalLoginUsuario({
   aberta,
@@ -43,6 +43,8 @@ export default function ModalLoginUsuario({
         });
         aoEfetuarLogin();
         const nomeUsuario = resposta.data.user.nome;
+        console.log(resposta.data);
+        console.log(nomeUsuario);
         salvaNomeUsuario(nomeUsuario);
       })
       .catch((erro) => {

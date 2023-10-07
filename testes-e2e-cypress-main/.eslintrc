@@ -5,6 +5,7 @@
     "plugin:react/recommended",
     "plugin:jsx-a11y/recommended",
     "plugin:react-hooks/recommended",
+    "plugin:cypress/recommended",
     "prettier"
   ],
   "parserOptions": {
@@ -22,7 +23,11 @@
     "no-unused-vars": "off",
     "import/no-unresolved": "off"
   },
-  "plugins": ["react", "import", "jsx-a11y", "cypress/recommended"],
+  "plugins": [
+    "react",
+    "import",
+    "jsx-a11y"
+  ],
   "env": {
     "es6": true,
     "browser": true,

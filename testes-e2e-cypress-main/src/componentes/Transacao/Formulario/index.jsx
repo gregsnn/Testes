@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import { useState } from 'react';
 import estilos from './Formulario.module.css';
 
 export default function Formulario({ realizarTransacao }) {
@@ -52,13 +52,13 @@ export default function Formulario({ realizarTransacao }) {
           value={valor.valor}
           name="valor"
           id="valor"
-          data-test="form-input"
           placeholder="Digite um valor"
+          data-test="input-valor"
         />
         <button
+          data-test="realiza-transacao"
           className={estilos.botao}
           type="submit"
-          data-test="realiza-transacao"
         >
           Realizar transação
         </button>
